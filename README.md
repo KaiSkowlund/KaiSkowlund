@@ -60,7 +60,7 @@ Study Abroad: Coastal Geomorphology and Fisheries Ecology
 ## Contact
 
 - 📧 Email: *(kaiskowlund@gmail.com)*
-- 💼 LinkedIn: *([add your LinkedIn URL](https://www.linkedin.com/in/kai-skowlund-0a5158358/))*
+- 💼 LinkedIn: *([Link](https://www.linkedin.com/in/kai-skowlund-0a5158358/))*
 - 🌐 Website: [KaiSkowlund.github.io](https://KaiSkowlund.github.io)
 
 ---
